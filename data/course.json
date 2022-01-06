@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Science",
+      "Biology"
+    ]
+  ],
+  "legacy_uid": "db4573d2-7b22-07f5-3759-678ba5aa149c",
+  "instructors": {
+    "content": [
+      "b160546f-f821-ea8f-5378-cc86333cefd7",
+      "93756d5f-0d90-ab43-1fc0-3270e430cb1f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4faa70be-56e1-8dd9-e1c0-5b7d2c40e81f",
+    "website": "20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012"
+  },
+  "course_title": "Analysis of Biomolecular and Cellular Systems",
+  "course_description": "This course focuses on computational and experimental analysis of biological systems across a hierarchy of scales, including genetic, molecular, cellular, and cell population levels. The two central themes of the course are modeling of complex dynamic systems and protein design and engineering. Topics include gene sequence analysis, molecular modeling, metabolic and gene regulation networks, signal transduction pathways and cell populations in tissues. Emphasis is placed on experimental methods, quantitative analysis, and computational modeling.\n",
+  "department_numbers": [
+    "20"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "20.320",
+  "course_image_thumbnail": {
+    "content": "f12bedba-3a46-ceae-6ddb-18a3d84e1f92",
+    "website": "20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "04980894-b40c-4805-8ecd-81e67816854b",
+  "title": "Course Metadata"
+}

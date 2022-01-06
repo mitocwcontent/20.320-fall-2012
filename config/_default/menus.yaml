@@ -1,0 +1,49 @@
+leftnav:
+- identifier: f427ae32-67af-b31d-f03a-37ad1aa655ab
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: e538ede8-8769-d883-7c2a-795365c210f6
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: bc553a4f-8622-e2d3-c60e-87b6d361ffd2
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 30
+- identifier: cebb4d77-9ee1-4d41-5e78-cb06b0277b90
+  name: Modeling of Cellular Systems
+  url: /pages/modeling-of-cellular-systems/
+  weight: 40
+- identifier: 3240b8d2-22e6-140d-fbda-2ad6abfaa8d5
+  name: Study Problems
+  parent: cebb4d77-9ee1-4d41-5e78-cb06b0277b90
+  url: /pages/modeling-of-cellular-systems/study-problems
+  weight: 50
+- identifier: 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0
+  name: Protein Networks Project
+  parent: cebb4d77-9ee1-4d41-5e78-cb06b0277b90
+  url: /pages/modeling-of-cellular-systems/protein-networks-project
+  weight: 60
+- identifier: 52f93d5d-eeab-ca0a-0c75-5793cc45656c
+  name: Modeling and Manipulating Biomolecular Interactions
+  url: /pages/modeling-and-manipulating-biomolecular-interactions/
+  weight: 70
+- identifier: e741af51-f70b-3b3f-b90b-df4225810bdb
+  name: Study Problems
+  parent: 52f93d5d-eeab-ca0a-0c75-5793cc45656c
+  url: /pages/modeling-and-manipulating-biomolecular-interactions/study-problems
+  weight: 80
+- identifier: 4e768918-89cb-0ab8-82ea-1711a42e3666
+  name: Protein Design Project
+  parent: 52f93d5d-eeab-ca0a-0c75-5793cc45656c
+  url: /pages/modeling-and-manipulating-biomolecular-interactions/protein-design-project
+  weight: 90
+- identifier: fbc59861-9d9b-9960-7e7e-c62d376c6ae8
+  name: Exams
+  url: /pages/exams
+  weight: 100
+- identifier: cd4b4519-6d0f-99f6-fa2a-8d816797da6e
+  name: Study Materials
+  url: /pages/study-materials
+  weight: 110
